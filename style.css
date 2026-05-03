@@ -1,0 +1,38 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p{
+    text-align: justify;
+}
+
+#box{
+    width: 1000px;
+    height: auto;
+    margin: auto;
+}
+
+#header{
+    background-color: #d864a8;
+    padding: 20px;
+}
+
+#menubar{
+    background-color: #c78bbc;
+    margin: auto;
+}
+
+.teksmenu{
+    text-decoration: none;
+}
+
+#konten{
+    padding: 100px;
+}
+
+#footer{
+    background-color: #edc9ed;
+    padding: 20px;
+}
